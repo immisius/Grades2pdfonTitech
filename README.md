@@ -1,3 +1,4 @@
+![sample](grade2pdf.png)
 # Grades2pdfonTitech
 東京工業大学の成績表をpdfあるいはcsvに変換するプログラムです。
 担当教師欄を無くしたいモチベーションの元、作成されました。
